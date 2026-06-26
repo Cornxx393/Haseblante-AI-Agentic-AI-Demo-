@@ -69,6 +69,10 @@ Secara arsitektur, model Qwen2.5-7B-Instruct mampu membaca konteks hingga **128K
 
 ---
 
+## Cara menjalankannya
+
+cara menjalankan aplikasinya ada pada official websitenya anda tinggal lihat dan ikuti di website resmi : https://haseblanteai.edgeone.app/
+
 ## 📌 Ringkasan
 
 | Aspek | Keterangan |
